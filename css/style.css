@@ -18,8 +18,8 @@ img, object {
 }
 
 
-/*typography*/
 
+/*typography*/
 h1 {
 	font-size: 1.750em;
 	font-weight: 100;
@@ -38,7 +38,6 @@ h3 {
 }
 
 /*buttons*/
-
 .btn {
 	padding: 15px 30px;
 	color: #faf3bc;
@@ -199,8 +198,6 @@ h3 {
 
 
 }
-
-
 
 
 /* Smaller ----------- */
